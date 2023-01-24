@@ -9,6 +9,7 @@ Currently learning JavaScript and improving my Front-End Development.
 Based in Sweden. 
 <br >
 <br >
+<br >
 
 |     [linkedin](https://www.linkedin.com/in/sarah-siqueira)     |      [behance](https://www.behance.net/sarah-siqueira)     |     [dribbble](https://dribbble.com/asterism0s)      |
 |      :----:       |       :----:     |       :----:     |
