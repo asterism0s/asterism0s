@@ -1,16 +1,14 @@
-### Hi there 👋
+## SARAH SIQUEIRA
+| Visual Designer     | Front-End Developer
+| :---        |    :--- 
+<br >
+I'm a Brazilian Visual Designer, and a passionate self-taught Developer.
+<br >
+Currently learning JavaScript and improving my Front-End Development.
+<br >
+Based in Sweden. 
+<br >
+<br >
 
-<!--
-**asterism0s/asterism0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|     [linkedin](https://www.linkedin.com/in/sarah-siqueira)     |      [behance](https://www.behance.net/sarah-siqueira)     |     [dribbble](https://dribbble.com/asterism0s)      |
+|      :----:       |       :----:     |       :----:     |
