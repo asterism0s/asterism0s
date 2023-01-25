@@ -2,7 +2,7 @@
 | Front-End Developer | Visual Designer   |
 | :---                |    :---           |
 <br >
-I'm a Brazilian Visual Designer, and a passionate self-taught Developer.
+I'm a Brazilian passionate self-taught Developer.
 <br >
 Currently learning JavaScript and improving my Front-End Development.
 <br >
