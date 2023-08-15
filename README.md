@@ -4,7 +4,7 @@
 <br >
 I'm a Brazilian passionate self-taught Developer.
 <br >
-Currently learning JavaScript and improving my Front-End Development.
+Currently learning C.
 <br >
 Based in Sweden. 
 <br >
