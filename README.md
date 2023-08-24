@@ -2,9 +2,9 @@
 | Front-End Developer | Visual Designer   |
 | :---                |    :---           |
 <br >
-I'm a Brazilian passionate self-taught Developer.
+I'm a passionate Brazilian developer.
 <br >
-Currently learning C.
+Currently taking cs50x course. 
 <br >
 Based in Sweden. 
 <br >
