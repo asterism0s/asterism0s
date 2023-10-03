@@ -2,7 +2,7 @@
 | Front-End Developer | Visual Designer   |
 | :---                |    :---           |
 <br >
-I'm a passionate Brazilian developer.
+I'm a Brazilian developer.
 <br >
 Currently taking cs50x course. 
 <br >
