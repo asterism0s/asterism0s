@@ -4,7 +4,7 @@
 <br >
 I'm a Brazilian developer.
 <br >
-Currently taking cs50x course (final project), and cs50w. 
+Currently taking cs50x (final project), and cs50w (project 0). 
 <br >
 Based in Sweden. 
 <br >
