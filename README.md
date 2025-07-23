@@ -1,5 +1,5 @@
 ## SARAH SIQUEIRA
-| Front-End Developer | Visual Designer   |
+| Web Developer | Visual Designer   |
 | :---                |    :---           |
 <br >
 I'm a Brazilian developer.
