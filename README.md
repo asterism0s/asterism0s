@@ -9,9 +9,8 @@ Currently taking cs50w (project 0) and Scrimba (Learn React).
 Based in Sweden. 
 <br >
 <br >
-<br >
-[![asterism0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=asterism0s&show_icons=true&theme=radical)](https://github.com/asterism0s)
 
+![asterism0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=asterism0s&show_icons=true&theme=radical)
 
 |     [linkedin](https://www.linkedin.com/in/sarah-siqueira)     |      [behance](https://www.behance.net/sarah-siqueira)     |     [dribbble](https://dribbble.com/asterism0s)      |
 |      :----:       |       :----:     |       :----:     |
