@@ -2,7 +2,7 @@
 | Web Developer | Visual Designer   |
 | :---                |    :---           |
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world!)(https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world!)
 <br >
 I'm a Brazilian developer.
 <br >
