@@ -6,7 +6,7 @@
 <br >
 I'm a Brazilian developer.
 <br >
-Currently taking cs50w (project 0) and Scrimba (Learn React). 
+Currently taking cs50w (project 0). 
 <br >
 Based in Sweden. 
 <br >
