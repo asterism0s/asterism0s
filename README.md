@@ -8,7 +8,7 @@ I'm a Brazilian developer.
 <br >
 Currently taking cs50w (project 1). 
 <br >
-Based in Sweden. 
+Based in Sweden.
 <br >
 <br >
 
