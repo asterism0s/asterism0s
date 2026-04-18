@@ -6,7 +6,7 @@
 <br >
 I'm a Brazilian developer.
 <br >
-Currently interning as a web developer at Omvida and taking cs50w (project 1). 
+Currently interning as a web developer at Omvida and taking cs50w (project 2). 
 <br >
 Based in Sweden.
 <br >
