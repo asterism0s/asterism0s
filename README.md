@@ -1,6 +1,4 @@
 ## SARAH SIQUEIRA
-| Web Developer | 
-| :---                |
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world!)
 <br >
