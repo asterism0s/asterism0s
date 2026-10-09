@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world!)
 <br >
-I'm a Brazilian developer.
+I'm a Brazilian web developer and Visual Designer.
 <br >
 Currently working as a freelancer and taking cs50w (project 2). 
 <br >
